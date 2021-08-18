@@ -1,0 +1,8 @@
+[
+    {
+        "state" : "rajasthan", "district" : ["jaipur","jodhpur","ajmer"]
+    },
+    {
+        "state" : "maharashtra", "district" : ["mumbai","pune","nagpur"]
+    }
+]
